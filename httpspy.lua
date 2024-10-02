@@ -272,5 +272,3 @@ elseif request then
 else
     createLogEntry("WARNING", "Your exploit is not supported!")
 end
-message.txt
-9 KB
